@@ -26,7 +26,7 @@ print(clean(sys.argv[1]))
 <details>
 <summary>python script details</summary>
 
-Only allowed params for the url is the `q` (search query) and `tbm` (type of search). Some common `tbm` types:
+Only allowed params for the url are `q` (search query) and `tbm` (type of search). Some common `tbm` types:
 - `tbm=isch` images
 - `tbm=vid` videos
 - `tbm=nws` news
