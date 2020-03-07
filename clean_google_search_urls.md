@@ -59,3 +59,5 @@ https://www.google.com/search?q=count+number+of+indents+python&tbm=isch
 second line is clean url, which is also copied to the clipboard.
 
 Mybe someday I'll create a website where you can do this. (maybe it will be more convinient than CLI tool)
+
+[comments](https://github.com/tandav/blog/issues/1)
